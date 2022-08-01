@@ -1,0 +1,23 @@
+{
+  "name": "fabrikam",
+  "version": "1.0.0",
+  "description": "Fabrikam is a multinational company has their 24 Offices all over world. Company wanted to build and host  Information Management Solutions in web.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akshay2822/Fabrikam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akshay2822/Fabrikam/issues"
+  },
+  "homepage": "https://github.com/Akshay2822/Fabrikam#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "git": "^0.1.5"
+  }
+}
